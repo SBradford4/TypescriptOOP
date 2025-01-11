@@ -1,5 +1,5 @@
 
-Video https://app.screencastify.com/v2/manage/videos/63Z27hf9Sk53keQFnSMs
+Video https://app.screencastify.com/v2/manage/videos/NBDEMd57bUxUlxzVKVRR
 
 # 08 TypeScript and OOP: Vehicle Builder
 
